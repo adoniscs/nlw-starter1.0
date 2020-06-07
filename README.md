@@ -26,4 +26,7 @@ Para acessar o layout construido pela Rocktseat, use o [Figma](https://www.figma
 ## Projeto
 ![](https://i.imgur.com/WfQGquU.png)
 
+---
 
+### Obs.:
+#### Dicas e sugestões serão bem vinda =)
