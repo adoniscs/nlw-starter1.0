@@ -1,4 +1,4 @@
-<center>![](https://imgur.com/KTXQKS7.png)</center>
+![](https://imgur.com/KTXQKS7.png)
 
 ------------
 
@@ -24,6 +24,6 @@ Para acessar o layout construido pela Rocktseat, use o [Figma](https://www.figma
 
 
 ## Projeto
-<center>![](https://i.imgur.com/WfQGquU.png)</center>
+![](https://i.imgur.com/WfQGquU.png)
 
 
